@@ -35,7 +35,7 @@ and as a result these are only rules listed so that there are penalties on paper
             1. [Exhaustion Addons](#exhaustion)
             2. [The Plague](#plague)
             3. [The Spirit (Some Addons Only)](#spirit)
-            4. [The Hillbilly (Some Addons Only)](#hillbilly)
+            4. [The Hillbilly & The Cannibal (Some Addons Only)](#hillbilly)
         2. [Survivor](#nocounterplay-survivor)
             1. [The Rock Bug / Holding the Game Hostage](#rockbug)
     6. [\#MeToo](#metoo)
@@ -190,8 +190,8 @@ The Spirit's passive phasing allows her to completely avoid being looped by surv
 because she disappears from the map entirely from the survivors' point of view, while still very much being able to act from
 her point of view. Any addons that increase the frequency or duration of passive phasing will reduce the killer's effective score
 by **2,500** bloodpoints *per offending addon*.
-###### Hillbilly (Specific Addons) <a name="hillbilly"></a>
-Hillbilly's Carburetor Tuning Guide (CTG) and Primer Bulb addons allow him to very quickly chainsaw a survivor, giving them very little
+###### Hillbilly & Bubba (Specific Addons) <a name="hillbilly"></a>
+The Chainsaw Enthusiasts' Carburetor Tuning Guide (CTG) and Primer Bulb addons allow them to very quickly chainsaw a survivor, giving them very little
 opportunity to juke and survive. Either of these addons being equipped will reduce the killer's effective score by **2,500** bloodpoints *per offending addon*.
 ##### Survivors <a name="nocounterplay-survivor"></a>
 ###### Rock Bug / Holding the Game Hostage <a name="rockbug"></a>
@@ -209,4 +209,5 @@ Playing The Doctor with perks or addons that affect skill checks will reduce the
 The Nurse has an insane amount of mobility and chase potential, even after her nerf. In the right hands, she is unstoppable; 
 she completely ignores pallets, vaults, walls, and cries for mercy. Playing the nurse **well** will reduce the killer's effective
 score by **15,000** bloodpoints.
+> People learning how to play the Nurse are excluded from this rule.
 
