@@ -15,9 +15,9 @@ and as a result these are only rules listed so that there are penalties on paper
             1. [List of item classes](#itemclasses)
         2. [Survivor Vote](#vote)
             1. [List of addon classes](#addonclasses)
-        3. [Consequences](#consequences)
-            1. [Accidents](#accidents)
-            2. [Intentions](#intentions)
+        3. [Consequences for Breaches](#consequences)
+            1. [By Accident](#byaccident)
+            2. [Intentional](#intentional)
 3. [Scoring Rules & Determining Roles](#scoringrules)
     1. [The Random-Roll Pool](#randomroll)
     2. [Minimum Score](#minscore)
@@ -107,11 +107,11 @@ to avoid confusion. This must be done before all four survivors have readied up.
 * Chase debuffs (hindered, exhausted)
 * Stealth (terror radius, crouch speed, sound modifications etc)
 * Cooldown & Duration (exception: non-cooldown power bar build speed)
-#### Consequences <a name="consequences"></a>
-##### Accidents
+#### Consequences for Breaches <a name="consequences"></a>
+##### By Accident <a name="byaccident"></a>
 Players who *accidentally* do not honor a ban that is placed suffer no penalty; however, the trial must be restarted without using
 whatever was banned. If the trial is entirely completed without anybody noticing the ban was not honored, the trial does not have to be restarted.
-##### Intentions
+##### Intentional <a name="intentional"></a>
 Players who *intentionally* do not honor a ban that is placed are excluded from the next trial. The ongoing trial must be ended.
 If the trial is entirely completed without anybody noticing, the party (survivors, or the killer) who placed the ban may choose
 whether or not to exclude the offending player from the next trial.
