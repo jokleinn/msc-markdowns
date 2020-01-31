@@ -60,7 +60,7 @@ Voicing disagreement or distaste for something in a civil or impersonal manner d
 > Saying "You always do X thing because you suck" in a non-joking manner is not.
 ### Camping (\<16m from hook) <a name="camping"></a>
 Hooking a survivor and then standing so close to them that they cannot easily be saved *when other survivors are doing generators
-**or** all generators are done and the end game collapse has not yet started* is not fun to play with or against.
+**or** all generators are done and the end game collapse has not yet started* is not fun to play with or against. Doing so disqualifies the offending player from playing killer again until everybody else has played at least **twice**.
 > It is possible under this rule to camp a survivor if there is good reason 
 > to believe that there are survivors waiting close by to dehook the hooked survivor.
 
