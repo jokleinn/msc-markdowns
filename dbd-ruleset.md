@@ -47,7 +47,7 @@ and as a result these are only rules listed so that there are penalties on paper
 ## Being Nice <a name="beingnice"></a>
 ### Post-game <a name="postgame"></a>
 This is at the top so that it is not glossed over.
-Being loud or violently rude/mean to somebody after a match for their gameplay when they did not break any of the listed rules is grounds for exclusion from the following trial.
+Being loudly or violently rude/mean to somebody after a match for their gameplay when they did not break any of the listed rules is grounds for exclusion from the following trial.
 Voicing disagreement or distaste for something in a civil or impersonal manner does not constitute a violation of this rule.
 > Saying "This fucking sucks to play against" is okay.
 
