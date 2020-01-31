@@ -29,7 +29,7 @@ and as a result these are only rules listed so that there are penalties on paper
         1. [The Pink Tax](#pinktax)
         2. [Insta-Downs](#instadowns)
         3. [Memento Mori and Similar](#moris)
-    5. [Hashtag NoCounterplay](#nocounterplay)
+    5. [\#NoCounterplay](#nocounterplay)
         1. [Killer](#nocounterplay-killer)
             1. [Exhaustion Addons](#exhaustion)
             2. [The Plague](#plague)
@@ -37,7 +37,7 @@ and as a result these are only rules listed so that there are penalties on paper
             4. [The Hillbilly (Some Addons Only)](#hillbilly)
         2. [Survivor](#nocounterplay-survivor)
             1. [The Rock Bug / Holding the Game Hostage](#rockbug)
-    6. [Hashtag MeToo](#metoo)
+    6. [\#MeToo](#metoo)
         1. [The Doctor (Some Builds)](#doctor)
         2. [The Nurse](#nurse)
     
@@ -168,7 +168,7 @@ score by **2,500** bloodpoints. Survivors that are killed after being hooked twi
 Being a victim of a perk, addon, or offering that outright kills the survivor will increase the survivor's effective score by **2,500** bloodpoints.
 Being killed unfairly (before being hooked twice) will increase the survivor's effective score by an additional **2,500** bloodpoints.
 
-#### Hashtag NoCounterplay <a name="nocounterplay"></a>
+#### \#NoCounterplay <a name="nocounterplay"></a>
 Playstlyes listed in this category are penalized because there is nothing that other players can do about the playstyle, and
 most, if not all, are only upgrades for the offending user, rather than being sidegrades.
 ##### Killers <a name="nocounterplay-killer"></a>
@@ -196,7 +196,7 @@ There is literally *zero* counterplay to the "rock bug". The bug involves gettin
 such that a killer is unable to hit the survivor or get on top of the rock themself. The game can be held hostage by doing this.
 Survivors who abuse the rock bug will **be excluded** from the following trial.
 
-#### Hashtag MeToo <a name="metoo"></a>
+#### \#MeToo <a name="metoo"></a>
 This category is for the list of things that have counterplay even below red ranks, but are still not fun to play against.
 ##### Killers
 ###### Doctor <a name="doctor"></a>
