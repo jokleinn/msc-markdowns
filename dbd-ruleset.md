@@ -4,6 +4,46 @@ but there are penalties for using stuff that isn't fun, and bonuses for being a 
 The rules that are listed are unlikely to apply to anybody that is playing in a way that is fun to play against,
 and as a result these are only rules listed so that there are penalties on paper for not being very nice to your friends.
 
+# Table of Contents
+1. [Being Nice](#beingnice)
+    1. [Post-Game](#postgame)
+    2. [Camping (\<16m from hook)](#camping)
+2. [Allowed Features](#allowedfeatures)
+    1. [Bans and Vetoes](#bans)
+    1a. [Killer Veto](#veto)
+    1aa. [List of item classes](#itemclasses)
+    1b. [Survivor Vote](#vote)
+    1ba. [List of addon classes](#addonclasses)
+    1c. [Consequences](#consequences)
+    1ca. [Accidents](#accidents)
+    1cb. [Intentions](#intentions)
+3. [Scoring Rules & Determining Roles](#scoringrules)
+    3a. [The Random-Roll Pool](#randomroll)
+    3b. [Minimum Score](#minscore)
+    3ba. [Killer](#minscore-killer)
+    3bb. [Survivor](#minscore-survivor)
+    3c. [Repeating Turns](#repeatingturns)
+    3ca. [Killer](#repeatingturns-killer)
+    3cb. [Survivor](#repeatingturns-survivor)
+    3d. [Score Adjustments](#score-adjustments)
+    3da. [The Pink Tax](#pinktax)
+    3db. [Insta-Downs](#instadowns)
+    3dc. [Memento Mori and Similar](#moris)
+    3dd. [Hashtag NoCounterplay](#nocounterplay)
+    3dda. [Killer](#nocounterplay-killer)
+    3ddaa. [Exhaustion Addons](#exhaustion)
+    3ddab. [The Plague](#plague)
+    3ddac. [The Spirit (Some Addons Only)](#spirit)
+    3ddad. [The Hillbilly (Some Addons Only)](#hillbilly)
+    3ddb. [Survivor](#nocounterplay-survivor)
+    3ddba. [The Rock Bug / Holding the Game Hostage](#rockbug)
+    3de. [Hashtag MeToo](#metoo)
+    3dea. [The Doctor (Some Builds)](#doctor)
+    3deb. [The Nurse](#nurse)
+    
+
+# Da Rules
+
 ## Being Nice <a name="beingnice"></a>
 ### Post-game <a name="postgame"></a>
 This is at the top so that it is not glossed over.
@@ -131,7 +171,7 @@ Being killed unfairly (before being hooked twice) will increase the survivor's e
 #### Hashtag NoCounterplay <a name="nocounterplay"></a>
 Playstlyes listed in this category are penalized because there is nothing that other players can do about the playstyle, and
 most, if not all, are only upgrades for the offending user, rather than being sidegrades.
-##### Killers
+##### Killers <a name="nocounterplay-killer"></a>
 ###### Exhaustion Addons <a name="exhaustion"></a>
 Exhaustion addons allow killers to entirely remove a survivor's ability to use a *playstyle-altering* perk in their loadout,
 and often don't even require much effort to apply to a survivor. Using an exhaustion addon will reduce the killer's effective
@@ -147,10 +187,10 @@ The Spirit's passive phasing allows her to completely avoid being looped by surv
 because she disappears from the map entirely from the survivors' point of view, while still very much being able to act from
 her point of view. Any addons that increase the frequency or duration of passive phasing will reduce the killer's effective score
 by **2,500** bloodpoints *per offending addon*.
-###### Hillbilly (Specific Addons) <a name="hillbilly></a>
+###### Hillbilly (Specific Addons) <a name="hillbilly"></a>
 Hillbilly's Carburetor Tuning Guide (CTG) and Primer Bulb addons allow him to very quickly chainsaw a survivor, giving them very little
 opportunity to juke and survive. Either of these addons being equipped will reduce the killer's effective score by **2,500** bloodpoints *per offending addon*.
-##### Survivors
+##### Survivors <a name="nocounterplay-survivor"></a>
 ###### Rock Bug / Holding the Game Hostage <a name="rockbug"></a>
 There is literally *zero* counterplay to the "rock bug". The bug involves getting on top a rock that generates on some maps,
 such that a killer is unable to hit the survivor or get on top of the rock themself. The game can be held hostage by doing this.
