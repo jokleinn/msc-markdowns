@@ -138,10 +138,10 @@ When more than 5 players are present, survivors must score a minimum of **12,500
 in order to be included in the next random-roll pool. If exclusions would reduce the number of players below 5,
 the highest-scoring excluded survivors will be added to round the player count off.
 ### Repeating turns <a name="repeatingturns"></a>
-#### Killer <a name="repeatingturns-killer></a>
+#### Killer <a name="repeatingturns-killer"></a>
 A killer who scores a minimum of **30,000** bloodpoints is allowed to appoint the next killer, *including themself*. 
 However, *a player may not use this method to be killer more than twice in a row.*
-#### Survivor <a name="repeatingturns-survivor"</a>
+#### Survivor <a name="repeatingturns-survivor"></a>
 A survivor who scores a minimum of **30,000** bloodpoints is allowed to choose the *killer character* of the next killer, as 
 long as the next killer owns that killer, but they cannot choose the next killer. 
 *Survivors may not use this method to compel a player to play something that will get them penalized -- if playing Plague 
