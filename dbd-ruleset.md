@@ -76,8 +76,8 @@ Trapping or blocking the exit gates in such a way that survivor cannot open an e
 ## Allowed features <a name="allowedfeatures"></a>
 **All** items, addons, perks, and killers are allowed. Discouragement of tactics that are
 not usually fun to play against is provided by the **Score Adjustments** section.
-However, there exist two dynamic bans per lobby -- one is a killer choice, and one is the choice of all 4 survivors.
-Of course, players may choose not to vote or veto.
+However, there exist two "bans" per lobby -- one is the killer's choice, and one is the choice of all 4 survivors.
+Of course, players may choose not to vote or veto anything, but there is no compensation for not voting or vetoing.
 ### Dynamic Bans <a name="bans"></a>
 #### Players' Choice
 ##### Killer Veto <a name="veto"></a>
