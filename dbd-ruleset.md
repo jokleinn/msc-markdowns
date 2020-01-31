@@ -106,7 +106,8 @@ to avoid confusion. This must be done before all four survivors have readied up.
 * Lasting debuffs (mangled, hemorrhage)
 * Chase debuffs (hindered, exhausted)
 * Stealth (terror radius, crouch speed, sound modifications etc)
-* Cooldown & Duration (exception: non-cooldown power bar build speed)
+* Cooldown (exception: non-cooldown power bar build speed)
+* Duration
 #### Consequences for Breaches <a name="consequences"></a>
 ##### By Accident <a name="byaccident"></a>
 Players who *accidentally* do not honor a ban that is placed suffer no penalty; however, the trial must be restarted without using
