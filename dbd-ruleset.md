@@ -83,7 +83,7 @@ Of course, players may choose not to vote or veto anything, but there is no comp
 ##### Killer Veto <a name="veto"></a>
 The killer may veto *exactly one* perk, offering, item *class*, or survivor character.
 They must type their veto in the chat or discuss it out loud with the survivors before readying up.
-> The item class and addon class bans allow killers to say "no toolboxes" or "no instaheals,"
+> The item class bans allow killers to say "no toolboxes" or "no medkits,"
 > but the perk, offering, and survivor character bans are precise choices. Killers may say
 > "no Distortion," but they may not say "No exhaustion perks."
 ###### List of item classes <a name="itemclasses"></a>
