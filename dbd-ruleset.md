@@ -109,7 +109,7 @@ to avoid confusion. This must be done before all four survivors have readied up.
 #### Consequences <a name="consequences"></a>
 ##### Accidents
 Players who *accidentally* do not honor a ban that is placed suffer no penalty; however, the trial must be restarted without using
-whatever was banned. If the trial is entirely completed without anybody noticing the ban, the trial does not have to be restarted.
+whatever was banned. If the trial is entirely completed without anybody noticing the ban was not honored, the trial does not have to be restarted.
 ##### Intentions
 Players who *intentionally* do not honor a ban that is placed are excluded from the next trial. The ongoing trial must be ended.
 If the trial is entirely completed without anybody noticing, the party (survivors, or the killer) who placed the ban may choose
