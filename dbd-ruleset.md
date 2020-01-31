@@ -8,6 +8,7 @@ and as a result these are only rules listed so that there are penalties on paper
 1. [Being Nice](#beingnice)
     1. [Post-Game](#postgame)
     2. [Camping (\<16m from hook)](#camping)
+    3. [Trapping the Exit Gates during EGC](#trappingegc)
 2. [Allowed Features](#allowedfeatures)
     1. [Bans and Vetoes](#bans)
         1. [Killer Veto](#veto)
@@ -60,7 +61,7 @@ Voicing disagreement or distaste for something in a civil or impersonal manner d
 > Saying "You always do X thing because you suck" in a non-joking manner is not.
 ### Camping (\<16m from hook) <a name="camping"></a>
 Hooking a survivor and then standing so close to them that they cannot easily be saved *when other survivors are doing generators
-**or** all generators are done and the end game collapse has not yet started* is not fun to play with or against. Doing so disqualifies the offending player from playing killer again until everybody else has played at least **twice**.
+**or** all generators are done and the end game collapse has not yet started* is not fun to play with or against. Doing so disqualifies the offending player from playing killer again until everybody else has been nominated for killer at least **twice**.
 > It is possible under this rule to camp a survivor if there is good reason 
 > to believe that there are survivors waiting close by to dehook the hooked survivor.
 
@@ -69,6 +70,8 @@ Hooking a survivor and then standing so close to them that they cannot easily be
 > and return to the hook and stand guard over the survivor. This likely means
 > that any other survivors will be able to escape through the door that the killer has opened,
 > thereby taking potential hooks and kills away from the killer, which is why it is considered fair play.
+### Trapping the Exit Gates during EGC <a name="trappingegc"></a>
+Trapping or blocking the exit gates in such a way that survivor cannot open an exit gate without immediately giving the killer information about their whereabouts is not fun to play against. When the End Game Collapse has begun (hatch is kicked), if a survivor has no means of escaping through the exit gates without a certainty of dying then the killer is at fault of violating this rule and will be disqualified from playing killer again until everybody else has been nominated for killer at least **twice**.
 
 ## Allowed features <a name="allowedfeatures"></a>
 **All** items, addons, perks, and killers are allowed. Discouragement of tactics that are
