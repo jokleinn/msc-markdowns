@@ -139,7 +139,7 @@ immediately after them, provided the killer after them can score the minimum **P
 > This means that if a killer scores 10,500 bloodpoints, and the killer immediately after them scores at least 14,500 bloodpoints,
 > that player may nominate the previous killer to be re-added to the pool.
 #### Survivor <a name="minscore-survivor"></a>
-When more than 5 players are present, survivors must score a minimum of **12,500** bloodpoints
+When more than 5 players are present, survivors must score a minimum of **7,500** bloodpoints
 in order to be included in the next random-roll pool. If exclusions would reduce the number of players below 5,
 the highest-scoring excluded survivors will be added to round the player count off.
 ### Repeating turns <a name="repeatingturns"></a>
