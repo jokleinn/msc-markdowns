@@ -86,6 +86,7 @@ They must type their veto in the chat or discuss it out loud with the survivors 
 > The item class bans allow killers to say "no toolboxes" or "no medkits,"
 > but the perk, offering, and survivor character bans are precise choices. Killers may say
 > "no Distortion," but they may not say "No exhaustion perks."
+**The killer may veto the survivors' ban; in doing so, they forfeit their own ban.**
 ###### List of item classes <a name="itemclasses"></a>
 * Flashlights
 * Toolboxes
@@ -100,6 +101,7 @@ to avoid confusion. This must be done before all four survivors have readied up.
 > The addon *class* bans allow survivors to say "no tracking addons," for example.
 > Because the survivors do not know who the killer is, it is very difficult to ban a specific type of addon and meaningfully affect
 > the killer. As a result, very broad addon classes are defined for killers' powers.
+**The survivors may vote to disable the killer's ban; in doing so, they forfeit their own ban.**
 ###### List of addon classes <a name="addonclasses"></a>
 * Pinks
 * Information (auras, noise notifications)
