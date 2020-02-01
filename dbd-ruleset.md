@@ -97,7 +97,7 @@ They must type their veto in the chat or discuss it out loud with the survivors 
 The survivors may vote together to ban *exactly one* perk, offering, killer character, or addon *class*.
 They should agree on their ban together out loud before one types it in chat or communicates it to the killer out loud in order
 to avoid confusion. This must be done before all four survivors have readied up.
-> The addon *class* bans allow survivors to say "no tracking addons" but not "no ".
+> The addon *class* bans allow survivors to say "no tracking addons," for example.
 > Because the survivors do not know who the killer is, it is very difficult to ban a specific type of addon and meaningfully affect
 > the killer. As a result, very broad addon classes are defined for killers' powers.
 ###### List of addon classes <a name="addonclasses"></a>
