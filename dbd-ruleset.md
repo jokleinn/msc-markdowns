@@ -32,7 +32,7 @@ and as a result these are only rules listed so that there are penalties on paper
         3. [Memento Mori and Similar](#moris)
     5. [\#NoCounterplay](#nocounterplay)
         1. [Killer](#nocounterplay-killer)
-            1. [Exhaustion Addons](#exhaustion)
+            1. [Exhaustion Addons and Perks](#exhaustion)
             2. [The Plague](#plague)
             3. [The Spirit (Some Addons Only)](#spirit)
             4. [The Hillbilly & The Cannibal (Some Addons Only)](#hillbilly)
@@ -179,10 +179,11 @@ Being killed unfairly (before being hooked twice) will increase the survivor's e
 Playstlyes listed in this category are penalized because there is nothing that other players can do about the playstyle, and
 most, if not all, are only upgrades for the offending user, rather than being sidegrades.
 ##### Killers <a name="nocounterplay-killer"></a>
-###### Exhaustion Addons <a name="exhaustion"></a>
-Exhaustion addons allow killers to entirely remove a survivor's ability to use a *playstyle-altering* perk in their loadout,
+###### Exhaustion Addons and Perks <a name="exhaustion"></a>
+Exhaustion addons and perks allow killers to entirely remove a survivor's ability to use a *playstyle-altering* perk in their loadout,
 and often don't even require much effort to apply to a survivor. Using an exhaustion addon will reduce the killer's effective
-score by **2,500** bloodpoints *per 30 seconds of exhaustion that the addon provides*.
+score by **2,500** bloodpoints *per 30 seconds of exhaustion that the addon or perk provides*.
+> If the addon or perk provides less than 10 seconds of exhaustion per application, then this rule does not apply to it.
 ###### Plague <a name="plague"></a>
 The plague forces survivors to either spend the entire game in the broken state, or face the wrath of her blood flamethrower.
 In addition, she has addons that can make her the second-best tracker in the game (second only to the doctor), or start the game
