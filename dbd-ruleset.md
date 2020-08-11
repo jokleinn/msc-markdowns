@@ -39,8 +39,7 @@ and as a result these are only rules listed so that there are penalties on paper
         2. [Survivor](#nocounterplay-survivor)
             1. [The Rock Bug / Holding the Game Hostage](#rockbug)
     6. [\#MeToo](#metoo)
-        1. [The Doctor (Some Builds)](#doctor)
-        2. [The Nurse](#nurse)
+        1. [The Nurse](#nurse)
     
 
 # Da Rules
@@ -207,12 +206,9 @@ Survivors who abuse the rock bug will **be excluded** from the following trial.
 #### \#MeToo <a name="metoo"></a>
 This category is for the list of things that have counterplay even below red ranks, but are still not fun to play against.
 ##### Killers
-###### Doctor <a name="doctor"></a>
-The Doctor's most popular perk build is designed to make skill checks very difficult to hit, which is very punishing for new players.
-Playing The Doctor with perks or addons that affect skill checks will reduce the killer's effective score by **2,500** bloodpoints *per offending addon or perk*.
 ###### Nurse <a name="nurse"></a>
 The Nurse has an insane amount of mobility and chase potential, even after her nerf. In the right hands, she is unstoppable; 
 she completely ignores pallets, vaults, walls, and cries for mercy. Playing the nurse **well** will reduce the killer's effective
-score by **15,000** bloodpoints.
+score by **2,500** bloodpoints.
 > People learning how to play the Nurse are excluded from this rule.
 
